@@ -1,6 +1,6 @@
 ## Adolf Mathebula
 
-Web developer. I am skilled in React, Next, Vue, PHP and Tailwindcss. I deliver efficient and effective web-based solutions to help businesses achieve their goals and targets. 
+Front End Engineer | Software Engineering Tyro
 
 
 ###  Socials:
