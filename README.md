@@ -1,7 +1,13 @@
 ## Adolf Mathebula
 
-Front End Engineer | Software Engineering Tyro
+### Experiencing Growth in My Role as a Software Engineer.
 
+The past few months have been particularly exciting for me since I undertook a new role last year (Front-End Engineer). I have come to appreciate the value of working collaboratively in a team and the rapid professional development it can foster. It has provided me with insights into cultivating a more structured and professional approach to my work, as well as improving my interpersonal skills.
+
+One crucial lesson has been understanding the significance of documenting my work, effectively communicating the what and why behind my decisions.
+Perhaps the most challenging aspect has been opening myself up to receiving suggestions and input from my team. However, I've come to recognize this as the essential key to personal and collective growth, shaping us into engineers capable of constructing robust applications.
+
+As the new year unfolds, I am eager to continue this journey of growth and learning, looking forward to expanding my skills and knowledge even further. *03 January 2024*
 
 ###  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adolfmathebulaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolfmathebula) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adolfmathebula) 
