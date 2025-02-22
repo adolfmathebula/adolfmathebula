@@ -4,6 +4,8 @@ A software developer with experience in building web applications using modern f
 
 I focus on writing clean, efficient code and building secure, maintainable applications. My knowledge of C# allows me to work across diverse development environments, contributing to everything from small-scale projects to enterprise-level applications. I enjoy learning new technologies and improving my skills to create reliable and scalable software solutions.
 
+React.js | Next.js | Opus UI | Express |  Typescript | SQL (MySQL, PostgreSQL) | Firebase |  C# | .NET 
+
 ![adolfmathebula's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adolfmathebula&theme=vue-dark&hide_border=true)
 ![adolfmathebula's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfmathebula&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
