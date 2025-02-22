@@ -1,22 +1,9 @@
-## Web Application Project
-### App Name: SIQmate™
-SIQmate™ [View](https://siqmate.co.za) is an innovative web app designed to simplify the process of managing your invoices and quotations. Our user-friendly platform makes the invoice creation process straightforward and efficient. With SIQmate, you can automate tasks, minimise manual data entry, and ensure accuracy in your billing.
+###  Software Developer
 
-#### Key Features:
-1. Create/Edit Quotations
-2. Create/Edit Invoices
-3. Save Your Documents Online
-5. Save and Download Documents as PDFs
-6. Save POPs (Proof of Payments) *[read more](https://www.siqmate.co.za/features/)*
+A software developer with experience in building web applications using modern front-end and back-end technologies. I work with React.js, Next.js, Tailwind CSS, and Bootstrap for front-end development, and Express.js, PHP, Firebase, MySQL, PostgreSQL, and Node.js for back-end solutions. 
 
-## Inspiration:
-I have always wanted to create an app specifically for business professionals. Many of them, lacking technical skills, struggle to create polished, professional invoices and quotations. Last December, during the holiday season, I decided to dedicate my free time to developing such an app.
+I focus on writing clean, efficient code and building secure, maintainable applications. My knowledge of C# allows me to work across diverse development environments, contributing to everything from small-scale projects to enterprise-level applications. I enjoy learning new technologies and improving my skills to create reliable and scalable software solutions.
 
-## TeachUsed
-React.js Next.Js (UI), Express.js(API), TypeScript, Firebase(Authentication), SQL(Database), TailwindCSS (UI)
 
-## SDLC Stage: 
-User Acceptance Testing (UAT)
-
-**Link:** [www.siqmate.co.za](https://siqmate.co.za)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfmathebula&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
