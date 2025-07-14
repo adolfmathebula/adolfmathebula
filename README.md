@@ -6,7 +6,7 @@ I focus on writing clean, efficient code and building secure, maintainable appli
 
 React.js | Next.js | Opus UI | Express |  Typescript | SQL (MySQL, PostgreSQL) | Firebase |  C# | .NET 
 
-![adolfmathebula's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adolfmathebula&theme=vue-dark&hide_border=true)
 ![adolfmathebula's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfmathebula&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![adolfmathebula's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adolfmathebula&theme=vue-dark&hide_border=true)
 
 
